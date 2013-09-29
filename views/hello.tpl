@@ -1,11 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
 <html> <head>
-<title>Hello!</title>
+<title>Vote for me!</title>
 </head>
 
 <body>
-<h1>Hello, {{name}}!</h1>
-
-Hello, {{name}}, and welcome to the web app!
+<h1>{{slogan}}</h1>
 
 </body> </html>
